@@ -1,0 +1,8 @@
+name: ConsoleServers
+main: lunarelly\consoleservers\ConsoleServers
+
+version: 1.0.0
+api: 5.0.0
+
+author: Lunarelly
+website: https://github.com/Lunarelly
